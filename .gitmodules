@@ -1,0 +1,18 @@
+[submodule "AI-Search-Algorithms"]
+	path = AI-Search-Algorithms
+	url = https://github.com/Theparia/AI-Search-Algorithms.git
+[submodule "Sudoku-Solver"]
+	path = Sudoku-Solver
+	url = https://github.com/Theparia/Sudoku-Solver.git
+[submodule "Checkers-Game-Using-Minimax"]
+	path = Checkers-Game-Using-Minimax
+	url = https://github.com/Theparia/Checkers-Game-Using-Minimax.git
+[submodule "Advertisement-Classification-Using-Naive-Bayes"]
+	path = Advertisement-Classification-Using-Naive-Bayes
+	url = https://github.com/Theparia/Advertisement-Classification-Using-Naive-Bayes.git
+[submodule "Movie-Genre-Classification-Using-Decision-Tree"]
+	path = Movie-Genre-Classification-Using-Decision-Tree
+	url = https://github.com/Theparia/Movie-Genre-Classification-Using-Decision-Tree.git
+[submodule "Image-Classification-Using-Feed-Forward-Neural-Network"]
+	path = Image-Classification-Using-Feed-Forward-Neural-Network
+	url = https://github.com/Theparia/Image-Classification-Using-Feed-Forward-Neural-Network.git
